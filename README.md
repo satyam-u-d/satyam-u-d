@@ -1,4 +1,5 @@
-<h1>Hi, I'm Satyam!</h1> <h2> <br/><a href="https://github.com/satyam-u-d">Electrical and Computer Engineer (M. Sc.), <br>Mechatronics Engineer (B. Tech.)</a>, <br><a href="https://www.linkedin.com/in/satyam-dudhagara-9707/">Robotics Professional</a></h2>
+<h1>Hi there!, I'm Satyam 👋</h1>
+<h2>Electrical and Computer Engineer (M. Sc.), <br>Mechatronics Engineer (B. Tech.), <br>Robotics Professional</h2>
 
 <h2>👨‍💻 Software Projects:</h2>
 
