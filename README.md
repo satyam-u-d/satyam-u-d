@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Modelling and Simualtion</b>
   - [Virtual Prototyping and Mathematical Modelling of ABS on a Bike](https://github.com/satyam-u-d/VirtualPrototypingABS)
 - <b>Robotic Process Automation</b>
   - [Injection Moulding Unloading Robot](https://github.com/satyam-u-d/Injection-Moulding-Unloading-Robot) <b><i>(Bachelor's Thesis)</b></i>
