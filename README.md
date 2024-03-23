@@ -15,11 +15,6 @@
 - <b>Robotic Process Automation</b>
   - [Injection Moulding Unloading Robot](https://github.com/satyam-u-d/Injection-Moulding-Unloading-Robot) <b><i>(Bachelor's Thesis)</b></i>
 
-
-<h2>📺 </h2>
-
-- 
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Satyam Dudhagara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
