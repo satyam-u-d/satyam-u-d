@@ -1,7 +1,7 @@
 <h1>Hi there!, I'm Satyam 👋</h1>
 <h2>Electrical and Computer Engineer (M. Sc.), <br>Mechatronics Engineer (B. Tech.), <br>Robotics Professional</h2>
 
-<h2>👨‍💻 Project Works:</h2>
+<h2>👨‍💻 Projects and Experiences:</h2>
 
 - <b>Mobile Robotics</b>
   - [Development of an Autonomous Simulation, Testing and Data Generation Framework for Mobile Robots within Randomly Generated Plausible Scenarios](https://github.com/satyam-u-d/AMR-sim-framework) <b><i>(Masters's Thesis)</b></i>
