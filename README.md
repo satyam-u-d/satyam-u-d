@@ -1,7 +1,18 @@
 <h1>Hi there!, I'm Satyam 👋</h1>
+
 <h2>Electrical and Computer Engineer (M. Sc.), <br>Mechatronics Engineer (B. Tech.), <br>Robotics Professional</h2>
 
-<h2>👨‍💻 Projects and Experiences:</h2>
+🔭 I’m currently working with **Autonomous Mobile Robots** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+
+🏫 I’m currently learning **PyTorch for Deep Learning Projects**
+
+🔎 I’m looking to collaborate on **Open source Projects**
+
+💬 Ask me about **Robotics, Automation and Sustainability**
+
+💗 Love to talk about **History, Sports, Science and Technology!**
+
+<h2>💻 Projects and Experiences:</h2>
 
 - <b>Mobile Robotics</b>
   - [Development of an Autonomous Simulation, Testing and Data Generation Framework for Mobile Robots within Randomly Generated Plausible Scenarios](https://github.com/satyam-u-d/AMR-sim-framework) <b><i>(Masters's Thesis)</b></i>
