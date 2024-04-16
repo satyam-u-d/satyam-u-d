@@ -4,7 +4,7 @@
 
 🔭 I’m currently working with **Autonomous Mobile Robots** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **PyTorch for Deep Learning Projects**
+🏫 I’m currently learning **PyTorch for Machine Learning Projects**
 
 🔎 I’m looking to collaborate on **Open source Projects**
 
