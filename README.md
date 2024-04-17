@@ -6,7 +6,7 @@
 
 🏫 I’m currently learning **PyTorch for Machine Learning Projects**
 
-🔎 I’m looking to collaborate on **Open source Projects**
+🔎 I’m looking to work on **Robotics and Automation Projects**
 
 💬 Ask me about **Robotics, Automation and Sustainability**
 
