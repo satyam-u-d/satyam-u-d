@@ -8,9 +8,9 @@
 
 🔎 I’m looking to work on **Robotics and Automation Projects**
 
-💬 Ask me about **Robotics, Automation and Sustainability**
+💬 Ask me about **Robotics, Automation, Control and Mechatronics**
 
-💗 Love to talk about **History, Sports, Science and Technology!**
+💗 Love to talk about **History, Science, Technology and Sports!**
 
 <h2>💻 Projects and Experiences:</h2>
 
