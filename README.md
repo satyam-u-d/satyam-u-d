@@ -16,6 +16,7 @@
 
 - <b>Mobile Robotics</b>
   - [Development of an Autonomous Simulation, Testing and Data Generation Framework for Mobile Robots within Randomly Generated Plausible Scenarios](https://github.com/satyam-u-d/AMR-sim-framework) <b><i>(Masters's Thesis)</b></i>
+  - [Development and deployment of AMR as a leakage finder](https://github.com/satyam-u-d/AMR-ALF)
 - <b>MATLAB and Simulink</b>
   - [Rule-based Energy Management System for Hybrid Electric Vehicle](https://github.com/satyam-u-d/Rule-Based-EMS-for-HEV)
   - [Virtual Prototyping and Mathematical Modelling of ABS on a Bike](https://github.com/satyam-u-d/VirtualPrototypingABS)
